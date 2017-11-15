@@ -1,3 +1,3 @@
 # RubyObjectsHomework
-# NYCDA Project
-# John Murphy
+## NYCDA Project
+ John Murphy
